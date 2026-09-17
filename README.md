@@ -19,6 +19,7 @@ The Excel worksheet contains **35 product records** with the following columns:
 | Quantity     | Number of units                                    |
 | Category     | Product category                                   |
 
+
 ## Excel Functions Used
 
 The following Excel functions were used during the analysis:
@@ -61,6 +62,7 @@ These text functions were applied to the **Product ID** to extract specific part
 * Develop fundamental Excel data-analysis skills.
 * Document the steps followed during the analysis.
 
+
 ## Files in This Repository
 
 ### 1. Excel Workbook
@@ -86,11 +88,13 @@ It includes:
 * Results obtained
 * Explanation of the analysis performed
 
+
 ## Tools Used
 
 * **Microsoft Excel** – Data analysis, calculations, and text manipulation
 * **Microsoft Word** – Documentation of the analysis steps
 * **GitHub** – Project repository and version control
+
 
 ## Repository Structure
 
@@ -101,6 +105,7 @@ Excel-Product-Data-Analysis/
 ├── Excel_Data_Analysis_Steps.docx
 └── README.md
 ```
+
 
 ## Key Analysis
 
@@ -114,6 +119,7 @@ The project includes:
 * Counting products based on conditions using `COUNTIF`
 * Calculating category-based totals using `SUMIF`
 * Extracting parts of Product IDs using `LEFT`, `MID`, and `RIGHT`
+
 
 ## Conclusion
 
