@@ -115,15 +115,6 @@ The project includes:
 * Calculating category-based totals using `SUMIF`
 * Extracting parts of Product IDs using `LEFT`, `MID`, and `RIGHT`
 
-## Key Results
-
-| Analysis                              | Result |
-| ------------------------------------- | -----: |
-| Number of products priced below $100  |     10 |
-| Sum of prices of Electronics products | $8,050 |
-
-Other calculations and detailed steps are available in the Excel workbook and accompanying Word document.
-
 ## Conclusion
 
 This project demonstrates the practical use of **Microsoft Excel for basic data analysis and data manipulation**.
